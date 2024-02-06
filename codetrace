@@ -1,0 +1,17 @@
+counter = 6
+
+i = 0
+Output: 6
+counter = 10
+
+i = 1
+Output: 11
+counter = 14
+
+i = 2
+Output: 16
+counter = 18
+
+i = 3
+
+Output: "we got: 18"
